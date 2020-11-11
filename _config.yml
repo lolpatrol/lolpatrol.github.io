@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
 title: Beep boop
 description: Beeping the boops
+
+navbar-links:
+	about: "about"
+	stuff: "stuff/stuff1"
+
+avatar: "/assets/img/muh_logo.png"
