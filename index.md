@@ -1,3 +1,9 @@
+---
+layout: page
+title: A
+subtitle: a
+---
+
 # Hello, world!
 
 All your beeps are belong to boop
