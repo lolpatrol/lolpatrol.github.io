@@ -4,8 +4,8 @@ author: beepboop
 description: Beeping the boops
 
 navbar-links:
-	about: "about"
-	stuff: "stuff/stuff1"
+  about: "about"
+  stuff: "stuff/stuff1"
 
 avatar: "/assets/img/muh_logo.png"
 round-avatar: true
